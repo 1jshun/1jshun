@@ -7,16 +7,15 @@
 
 <br/>
 
-`Java` `Spring Boot` `MySQL` `Docker` `Kubernetes` `Elasticsearch`
+`Java` `Spring Boot` `MySQL` `MariaDB` `Docker` `Kubernetes` `Elasticsearch` `Kafka` 
 
 <br/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=1jshun&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" width="430" />
-
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1jshun&layout=compact&hide_border=true" width="430" />
+<img src="https://github-stats-extended.vercel.app/api?username=1jshun&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="430" />
 
+<br/>
 </div>
