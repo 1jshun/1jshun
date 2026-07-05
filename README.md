@@ -1,16 +1,22 @@
-## Hi thereeeeee 👋
+<div align="center">
+  
+# Backend Developer
 
-<!--
-**1jshun/1jshun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+보이는 기능 뒤의 흐름을
+추적하고 개선하는 개발자 전성훈입니다.
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Java` `Spring Boot` `MySQL` `Docker` `Kubernetes` `Elasticsearch`
+
+<br/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=1jshun&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" width="430" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1jshun&layout=compact&hide_border=true" width="430" />
+
+</div>
