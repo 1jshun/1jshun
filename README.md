@@ -12,10 +12,4 @@
 <br/>
 
 <br/>
-
-<br/>
-
-<img src="https://github-stats-extended.vercel.app/api?username=1jshun&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="430" />
-
-<br/>
 </div>
